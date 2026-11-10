@@ -58,3 +58,18 @@ Este proyecto me ha permitido trabajar con:
 ---
 
 **Proyecto realizado con fines de aprendizaje y portfolio.**
+
+
+## 📸 Capturas del proyecto
+
+### Página principal
+
+![Página principal de Festejos de Sauceda](screenshots/inicio.png)
+
+### Transferencia de archivos con FileZilla
+
+![Transferencia de archivos mediante FileZilla](screenshots/FileZilla.png)
+
+### Diseño con Elementor
+
+![Edición de la web con Elementor](screenshots/Wordpress.png)
