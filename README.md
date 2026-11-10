@@ -64,7 +64,7 @@ Este proyecto me ha permitido trabajar con:
 
 ### Página principal
 
-![Página principal de Festejos de Sauceda](screenshots/inicio.png)
+![Página principal de Festejos de Sauceda](screenshots/Inicio.png)
 
 ### Transferencia de archivos con FileZilla
 
